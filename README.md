@@ -5,3 +5,6 @@
 ## Gojo-Satoru
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Subham k.c.
 
+### About me
+- I am a student, and self learning guy.
+- I don't mind PMs, so feel free to pm me on any of the platforms below
