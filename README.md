@@ -27,7 +27,7 @@
 
 ### My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Subhamkc1&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamkc1&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
+)
 
 ### Hobbies
 - Games (Valorant)
