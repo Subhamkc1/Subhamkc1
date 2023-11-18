@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/XCvc8Aq.mp4"/>
+<img src="https://i.imgur.com/SqHzpsr.jpeg"/>
 </p>
 
 ## Gojo-Satoru
