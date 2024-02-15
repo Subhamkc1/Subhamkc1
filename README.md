@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/gojo_satauro/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhamkc1&label=Profile%20views&color=0e75b6&style=flat" alt="Eidoron1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhamkc1&label=Profile%20views&color=0e75b6&style=flat" alt="My Profile View" /> </p>
 
 ### My Device
 - [Redmi Note 12 5g](https://www.gsmarena.com/xiaomi_redmi_note_12-12063.php)
