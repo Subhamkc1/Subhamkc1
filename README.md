@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/fBZWp5u"/>
+<img src=" https://imgur.com/fBZWp5u "/>
 </p>
 
 ## 𝚉 𝚎 𝚙 𝚑 🇳🇵
